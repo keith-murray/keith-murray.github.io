@@ -116,7 +116,10 @@ While I can understand the excitement of proposing entirely novel theories of in
 
 Convergence may be a “weaker” heuristic than inspiration, but it’s just as exciting, if not more. As I’ve stated before, proposing theories of intelligence is 'relatively' easy since any field, from mathematics to computer science and neuroscience can do it. Recognizing and explaining why a theory is fundamental to intelligence is significantly harder and occupies the mind of the engineer. But if our goal is to understand the brain and what makes it *generally intelligent* from a *mechanistic perspective*, then there is no alternative to the experimental neuroscientist doing the hard work and looking for what might be in the brain.
 
-**References**
+## Acknowledgements
+Big thanks to Jun, Kenny, Nikasha, and Sidharth for commenting on earlier drafts of this essay.
+
+## References
 
 \[1\] Zador, Anthony, et al. "Catalyzing next-generation artificial intelligence through NeuroAI." *Nature communications* 14.1 (2023): 1597\.  
 \[2\] Gershman, Samuel J. "What have we learned about artificial intelligence from studying the brain?" *Biological Cybernetics* 118 (2024): 1-5.  

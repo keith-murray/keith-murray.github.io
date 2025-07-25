@@ -1,3 +1,12 @@
+# Personal Website
+Checkout my [personal website and blog](https://keith-murray.github.io) that I built with [Quartz](https://quartz.jzhao.xyz). The original readme is below.
+
+## Licensing changes
+- `Content/` folder: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
+- Everything else: MIT License
+
+___
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
