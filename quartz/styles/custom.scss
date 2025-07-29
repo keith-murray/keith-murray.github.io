@@ -1,3 +1,13 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+/* Horrizontal lines within callouts */
+.callout .callout-sep {
+  border: 0;
+  border-top: 2px solid var(--color, currentColor); /* uses callout accent if defined */
+  width: 100%;                 /* scales with the callout’s width */
+  box-sizing: border-box;
+  margin: 0.5rem 0;            /* spacing above/below the rule */
+  opacity: 0.6;                /* tweak to taste */
+}
