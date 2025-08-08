@@ -38,4 +38,4 @@ Notice how the logical form of **Proposition 2** resembles that of **Proposition
 
 This all goes to show that neuroscience needs more than falsifiable theories and hypotheses. While falsifiability can be a useful heuristic, it isn’t a necessary requirement towards formulating _tractable_[^1] theories and hypotheses of the brain.
 
-[^1]: However, it might not even be the case that _tractable_ theories of the brain exist.
+[^1]: However, it might not be possible that we can formulate _tractable_ theories of the brain.
