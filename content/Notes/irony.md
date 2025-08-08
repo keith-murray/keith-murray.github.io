@@ -72,7 +72,7 @@ In our story, we journey through irony as we first expect the police officers to
 The opposite of teleological irony is this “fittingness”/cosmic justice we described with our lazy police officers. I don’t think there’s an opposite of associative irony, but by adding more purposeful descriptions (like Antarctica), we’re able to transition situations from associativity to teleology. Theories are powerful not only as they are explanatory, but also as they are prescriptive. For one last fix, let’s revisit the “man of my dreams” example:  
 > [!note] Ironic wife
 >
-> It's meeting the man of my dreams, and then meeting his **ugly** wife.
+> It's meeting the man of my dreams, and then meeting his **unhappy** wife.
 
 ## Acknowledgements
 I can't say that this theory of irony is entirely my own. My friends, Kenny and Will, and I formulated it together during one of Kenny's famous late night hangouts.
