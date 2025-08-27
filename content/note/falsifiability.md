@@ -7,7 +7,7 @@ tags:
    - language
 ---
 
-Despite the brain’s (quite literally) central position in our lives, our understanding of the brain is still very much in its infancy. We have no universal theory of brain function and scientists routinely disagree about how one [[Notes/isought.md | ought]] to approach brain research. In light of this lack of theory, some researchers are going back to the basics of science and advocating for neuroscience research centered around falsifiable theories and hypotheses.
+Despite the brain’s (quite literally) central position in our lives, our understanding of the brain is still very much in its infancy. We have no universal theory of brain function and scientists routinely disagree about how one [[note/isought.md | ought]] to approach brain research. In light of this lack of theory, some researchers are going back to the basics of science and advocating for neuroscience research centered around falsifiable theories and hypotheses.
 
 This grounding of neuroscience research in falsifiability echoes the work of philosopher Karl Popper in demarcating science from pseudoscience via the _Criterion of Falsifiability_:
 > [!info] Criterion of Falsifiability

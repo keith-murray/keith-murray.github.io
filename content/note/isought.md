@@ -7,7 +7,7 @@ tags:
    - AI
 ---
 
-In my essay critiquing [[Posts/neuroai.md | NeuroAI]], I took issue with the following statement:
+In my essay critiquing [[post/neuroai.md | NeuroAI]], I took issue with the following statement:
 > [!quote]
 > The emerging field of NeuroAI, at the intersection of neuroscience and AI, is based on the premise that a better understanding of neural computation will reveal fundamental ingredients of intelligence and catalyze the next revolution in AI. \[1\]
 
@@ -56,7 +56,7 @@ Hence, by applying Hume’s is-ought framework to my critique of NeuroAI, we can
 >
 > C4: Algorithm $x$ ought to be implemented in the brain.
 
-Yet, as I described in my essay critiquing [[Posts/neuroai.md | NeuroAI]], the Kalman filter and Transformer algorithms are powerful algorithms that have yet to be concretely proven to be implemented in the brain.
+Yet, as I described in my essay critiquing [[post/neuroai.md | NeuroAI]], the Kalman filter and Transformer algorithms are powerful algorithms that have yet to be concretely proven to be implemented in the brain.
 
 So where do we go from here? How do we logically argue that the brain is implementing some algorithm? What Hume’s ‘is-ought problem’ tells us is that we have to appeal to normative statements in the premises of our arguments in order to deduce normative statements[^3]. For example, the following argument is much more reasonable:
 > [!example] First principles of intelligence
