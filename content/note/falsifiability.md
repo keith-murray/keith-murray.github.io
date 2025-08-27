@@ -14,7 +14,7 @@ This grounding of neuroscience research in falsifiability echoes the work of phi
 >
 > Science is the study of falsifiable theories and hypotheses.
 
-Since [Popper’s 1959 book](https://psycnet.apa.org/record/1961-02882-000) _The Logic of Scientific Discovery_ where he proposed this criterion, it’s been widely noted that plenty of scientific statements and theories are unfalsifiable. While a complete synopsis of the problems of a “falsifiable” conception of science deserves its own [[index.md | post]], I’ll briefly outline in this note one particular example from [Scott Soames’s book](https://www.jstor.org/stable/j.ctt7t1cs) _Philosophical Analysis in the Twentieth Century_:
+Since [Popper’s 1959 book](https://psycnet.apa.org/record/1961-02882-000) _The Logic of Scientific Discovery_ where he proposed this criterion, it’s been widely noted that plenty of scientific statements and theories are unfalsifiable. While a complete synopsis of the problems of a “falsifiable” conception of science deserves its own [[post/index.md | post]], I’ll briefly outline in this note one particular example from [Scott Soames’s book](https://www.jstor.org/stable/j.ctt7t1cs) _Philosophical Analysis in the Twentieth Century_:
 > [!note] Proposition 1
 >
 > For every substance, there is a solvent.

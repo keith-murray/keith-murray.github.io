@@ -81,4 +81,4 @@ I can't say that this theory of irony is entirely my own. My friends, Kenny and 
 
 [^2]: Irony, at its core, is a kind of prediction error; it’s a mismatch between what we expected and what reality delivered.
 
-[^3]: I should probably define "teleology", but that's an entire [[index.md | note]] of its own.
+[^3]: I should probably define "teleology", but that's an entire [[note/index.md | note]] of its own.
