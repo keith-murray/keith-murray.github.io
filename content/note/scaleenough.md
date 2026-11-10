@@ -61,7 +61,7 @@ Or equivalently:
 >
 > The neocortex is designed to scale.
 
-What Daw did was flip my counterargument on its head and use it as an argument for Sutton’s Bitter Lesson: the superior colliculus wasn’t selected for in evolution because it couldn’t scale; therefore, evolution co-opted a brain area that could scale to meet the expanding demands of the visual world.
+What my advisor did was flip my counterargument on its head and use it as an argument for Sutton’s Bitter Lesson: the superior colliculus wasn’t selected for in evolution because it couldn’t scale; therefore, evolution co-opted a brain area that could scale to meet the expanding demands of the visual world.
 
 Now looking back at Sutton’s Bitter Lesson, it’s clear where I went wrong. I misinterpreted the lesson as “scale is all you need”. Instead, it says that general purpose methods that can scale are very powerful. In light of the superior colliculus and the neocortex, it’s simple: the superior colliculus is not general purpose and/or poorly scales, but the neocortex is general purpose and can scale. While my original counterargument is moot, we might be able to salvage it:
 > [!note] The brain is not the neocortex
